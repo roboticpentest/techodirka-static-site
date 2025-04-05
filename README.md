@@ -1,5 +1,5 @@
 # 🧠 ТехноДирка™
-[url](http://technodirka.robotsdreams.cc/)
+[http://technodirka.robotsdreams.cc/](http://technodirka.robotsdreams.cc/)
 
 > Ми знаємо, коли ви заряджаєте телефон.
 
